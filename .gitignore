@@ -8,10 +8,11 @@
 
 # testing
 /coverage
-
+gcs_key*
 # next.js
 /.next/
 /out/
+.env
 
 # production
 /build
